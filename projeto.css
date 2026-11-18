@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+body {
+ 
+ display: flex;
+ justify-content: center;
+  min-height: 100vh;
+  padding: 40px;
+  background-color: #000C59;
+  color: aliceblue;
+}
+.introducao h1 {
+  margin-bottom: 14px;
+}
+
+.experiencias{
+   display: flex;
+   
+   
+
+}
